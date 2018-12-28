@@ -1,0 +1,7 @@
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\obj\x86\Debug\SecuritySstem.FrmMain.resources
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\obj\x86\Debug\SecuritySstem.Properties.Resources.resources
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\obj\x86\Debug\SecuritySstem.csproj.GenerateResource.Cache
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\bin\Debug\SecuritySstem.exe
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\bin\Debug\SecuritySstem.pdb
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\obj\x86\Debug\SecuritySstem.exe
+D:\程序\罗文庆\SecuritySstem\SecuritySstem\obj\x86\Debug\SecuritySstem.pdb
